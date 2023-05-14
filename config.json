@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:@tcp(127.0.0.1:3306)/goblog",
+    "port": 8080
+}
